@@ -16,5 +16,7 @@ http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Ćwic
 
 Aby szybko pobrać plik:
 
-<a href="https://raw.githubusercontent.com/ZajdelR/WIO/master/Ćwiczenia/Cwiczenie1.ipynb" download="Cwiczenie1.ipynb">Jupyter Notebook: Cwiczenie1</a>
-<a href="https://raw.githubusercontent.com/ZajdelR/WIO/master/Ćwiczenia/Cwiczenie2.ipynb" download="Cwiczenie2.ipynb">Jupyter Notebook: Cwiczenie2</a>
+<ul>
+<li><a href="https://raw.githubusercontent.com/ZajdelR/WIO/master/Ćwiczenia/Cwiczenie1.ipynb" download="Cwiczenie1.ipynb" target="_blank">Jupyter Notebook: Cwiczenie1</a>
+<li><a href="https://raw.githubusercontent.com/ZajdelR/WIO/master/Ćwiczenia/Cwiczenia2.ipynb" download="Cwiczenie2.ipynb" target="_blank">Jupyter Notebook: Cwiczenie2</a>
+</ul>
