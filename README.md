@@ -11,4 +11,4 @@ jako prefix otwartego adresu url
 
 
 http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Listy/ListaZadan1.html
-http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Cwiczenia/Wprowadzenie.html
+http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Ćwiczenia/Wprowadzenie.html
