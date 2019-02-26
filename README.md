@@ -17,6 +17,6 @@ http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Ćwic
 Aby szybko pobrać plik:
 
 <ul>
-<li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenia1.ipynb">Jupyter Notebook: Cwiczenie1</a>
+<li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenie1.ipynb">Jupyter Notebook: Cwiczenie1</a>
 <li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenia2.ipynb">Jupyter Notebook: Cwiczenie2</a>
 </ul>
