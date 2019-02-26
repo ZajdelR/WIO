@@ -8,3 +8,7 @@ Aby otowrzyć wyklad w formacie HTML bezpośrednio w przeglądarce, otwieramy go
 http://htmlpreview.github.io/?
 
 jako prefix otwartego adresu url
+
+
+http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Listy/ListaZadan1.html
+http://htmlpreview.github.io/?raw.githubusercontent.com/ZajdelR/WIO/master/Cwiczenia/Wprowadzenie.html
