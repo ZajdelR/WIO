@@ -21,5 +21,5 @@ Aby szybko pobrać plik:
 <li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenie1.ipynb">Jupyter Notebook: Cwiczenie1</a>
 <li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenia2.ipynb">Jupyter Notebook: Cwiczenie2</a>
 <li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenie3.ipynb">Jupyter Notebook: Cwiczenie3</a>
-<li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Cwiczenie4.zip">Jupyter Notebook: Cwiczenie4</a>
+<li> <a href="https://cdn.jsdelivr.net/gh/ZajdelR/WIO/Ćwiczenia/Ćwiczenie4.zip">Jupyter Notebook: Cwiczenie4</a>
 </ul>
